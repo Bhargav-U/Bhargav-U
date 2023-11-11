@@ -2,8 +2,6 @@
 I'm an IoT student with a love for electronics, robotics, mechanics, and technology. I tinker with ESP32 and Arduino, design PCBs, and dabble in agriculture for sustainable tech solutions
 
 
-##  Socials:
-[![LinkedIn](https://www.linkedin.com/in/unnam-bhargav-a8751b28b/)](https://linkedin.com/in/www.linkedin.com/in/ unnam-bhargav-a8751b28b) 
 
 #  Tech Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
