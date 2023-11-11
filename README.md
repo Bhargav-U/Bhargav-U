@@ -3,7 +3,7 @@ I'm an IoT student with a love for electronics, robotics, mechanics, and technol
 
 
 ##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ unnam-bhargav-a8751b28b) 
+[![LinkedIn](https://www.linkedin.com/in/unnam-bhargav-a8751b28b/)](https://linkedin.com/in/www.linkedin.com/in/ unnam-bhargav-a8751b28b) 
 
 #  Tech Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
