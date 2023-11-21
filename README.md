@@ -2,7 +2,7 @@
 
 #  Hello world:
 
-<img src='ref/scientist-specialist.gif' style="height: 400px;"/>
+<img src='main/ref/scientist-specialist.gif' style="height: 400px;"/>
 
 
 
