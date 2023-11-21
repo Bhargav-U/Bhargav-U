@@ -31,10 +31,12 @@ I'm an IoT student with a love for electronics, robotics, mechanics, and technol
 
 
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhargav-U&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav-U&theme=blue-green)
 
+
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
