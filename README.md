@@ -1,7 +1,7 @@
 #  Hello world.I am Bhargav,
 
 <p align = "center"/>
-<img src='images/' />
+<img src='rick-and-morty-2560x1440-9363.jpg' />
 </p>
 
 <div align="left">
