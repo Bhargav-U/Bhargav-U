@@ -1,6 +1,15 @@
 
-#  About Me:
+
+#  Hello world:
+
+
+<img src='ref/scientist-specialist.webm' style="height: 400px;"/>
+
+
 I'm an IoT student with a love for electronics, robotics, mechanics, and technology. I tinker with ESP32 and Arduino, design PCBs, and dabble in agriculture for sustainable tech solutions
+
+
+   
 
 
 
@@ -25,10 +34,8 @@ I'm an IoT student with a love for electronics, robotics, mechanics, and technol
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
---->
-
 <a href='https://processing.org/' target="_blank"><img alt='processing' src='https://img.shields.io/badge/Processing_IDE-100000?style=for-the-badge&logo=processing&logoColor=white&labelColor=black&color=008BFB'/></a>
-
+--->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
