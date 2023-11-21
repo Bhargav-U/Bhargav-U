@@ -1,6 +1,9 @@
+#  Hello world.I am Bhargav,
 
+<p align = "center"/>
+<img src='https://media.istockphoto.com/id/1400304243/vector/electrofied-mad-scientist-cartoon-illustration.jpg?s=612x612&w=0&k=20&c=uADyuajcpJ3btWzKK-Jhnoc72fVgRwwmh2dthyHZNf8=' />
+</p>
 
-#  Hello world,I am Bhargav:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -108,6 +111,8 @@ int main() {
 
 
 ***
+
+# so,
 
  <p align="center">
    
