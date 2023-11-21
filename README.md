@@ -1,19 +1,6 @@
 
 
-#  Hello world:
-
-<img src='main/ref/scientist-specialist.gif' style="height: 400px;"/>
-
-
-
-I'm an IoT student with a love for electronics, robotics, mechanics, and technology. I tinker with ESP32 and Arduino, design PCBs, and dabble in agriculture for sustainable tech solutions
-
-
-   
-
-
-
-#  Tech Stack:
+#  Hello world,I am Bhargav:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -51,6 +38,73 @@ I'm an IoT student with a love for electronics, robotics, mechanics, and technol
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
 </div>
+
+# About me,
+```c++
+#include <stdio.h>
+
+int main() {
+    const char* interests[] = {
+        "Electronics", "Mechanics", "Computer Science",
+        "Robotics", "Agriculture", "Aquarium Hobbyist"
+    };
+
+    const char* languages[] = {
+        "Embedded C (Arduino IDE)", "MicroPython", "Bash",
+        "Python", "C", "Java", "HTML", "CSS", "JavaScript",
+        "SQL (MySQL)", "PHP"
+    };
+
+    const char* tools[] = {
+        "Arduino and Arduino IDE", "ESP32", "Raspberry Pi",
+        "STM32", "EasyEDA for PCB Design", "FreeCAD for basic CAD design",
+        "Processing IDE", "InfluxDB", "Grafana", "Blender", "Canva"
+    };
+
+    const char* projects[] = {
+        "Tinkering projects using ESP32", "Arduino",
+        "Raspberry Pi", "STM32"
+    };
+
+    const char* education = "B.Tech in Computer Science and Internet of Things at Shiv Nadar University,Chennai";
+
+    printf("Name: Bhargav\n");
+
+    printf("Interests: ");
+    for (int i = 0; i < 6; ++i) {
+        printf("%s, ", interests[i]);
+    }
+    printf("\n");
+
+    printf("Programming Languages: ");
+    for (int i = 0; i < 12; ++i) {
+        printf("%s, ", languages[i]);
+    }
+    printf("\n");
+
+    printf("Tools and Platforms: ");
+    for (int i = 0; i < 11; ++i) {
+        printf("%s, ", tools[i]);
+    }
+    printf("\n");
+
+    printf("Projects: ");
+    for (int i = 0; i < 4; ++i) {
+        printf("%s, ", projects[i]);
+    }
+    printf("\n");
+
+    printf("Academic Background: %s\n", education);
+
+    return 0;
+}
+
+```
+   
+
+
+
+
 
 
 ***
