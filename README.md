@@ -1,7 +1,7 @@
 #  Hello world.I am Bhargav,
 
 <p align = "center"/>
-<img src='https://media.istockphoto.com/id/1400304243/vector/electrofied-mad-scientist-cartoon-illustration.jpg?s=612x612&w=0&k=20&c=uADyuajcpJ3btWzKK-Jhnoc72fVgRwwmh2dthyHZNf8=' />
+<img src='images/' />
 </p>
 
 <div align="left">
