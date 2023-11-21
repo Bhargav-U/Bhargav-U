@@ -1,7 +1,7 @@
 #  Hello world.I am Bhargav,
 
 <p align = "center"/>
-<img src='rick-and-morty-2560x1440-9363.jpg' />
+<img src='https://w0.peakpx.com/wallpaper/653/714/HD-wallpaper-rick-morty-x-breaking-bad.jpg' />
 </p>
 
 <div align="left">
