@@ -43,64 +43,37 @@
 </div>
 
 # About me,
-```c++
-#include <stdio.h>
+```python
+interests = [
+    "Electronics", "Mechanics", "Computer Science",
+    "Robotics", "Agriculture", "Aquarium Hobbyist"
+]
 
-int main() {
-    const char* interests[] = {
-        "Electronics", "Mechanics", "Computer Science",
-        "Robotics", "Agriculture", "Aquarium Hobbyist"
-    };
+languages = [
+    "Embedded C (Arduino IDE)", "MicroPython", "Bash",
+    "Python", "C", "Java", "HTML", "CSS", "JavaScript",
+    "SQL (MySQL)", "PHP"
+]
 
-    const char* languages[] = {
-        "Embedded C (Arduino IDE)", "MicroPython", "Bash",
-        "Python", "C", "Java", "HTML", "CSS", "JavaScript",
-        "SQL (MySQL)", "PHP"
-    };
+tools = [
+    "Arduino and Arduino IDE", "ESP32", "Raspberry Pi",
+    "STM32", "EasyEDA for PCB Design", "FreeCAD for basic CAD design",
+    "Processing IDE", "InfluxDB", "Grafana", "Blender", "Canva"
+]
 
-    const char* tools[] = {
-        "Arduino and Arduino IDE", "ESP32", "Raspberry Pi",
-        "STM32", "EasyEDA for PCB Design", "FreeCAD for basic CAD design",
-        "Processing IDE", "InfluxDB", "Grafana", "Blender", "Canva"
-    };
+projects = [
+    "Tinkering projects using ESP32", "Arduino",
+    "Raspberry Pi", "STM32"
+]
 
-    const char* projects[] = {
-        "Tinkering projects using ESP32", "Arduino",
-        "Raspberry Pi", "STM32"
-    };
+education = "B.Tech in Computer Science and Internet of Things at Shiv Nadar University,Chennai"
 
-    const char* education = "B.Tech in Computer Science and Internet of Things at Shiv Nadar University,Chennai";
-
-    printf("Name: Bhargav\n");
-
-    printf("Interests: ");
-    for (int i = 0; i < 6; ++i) {
-        printf("%s, ", interests[i]);
-    }
-    printf("\n");
-
-    printf("Programming Languages: ");
-    for (int i = 0; i < 12; ++i) {
-        printf("%s, ", languages[i]);
-    }
-    printf("\n");
-
-    printf("Tools and Platforms: ");
-    for (int i = 0; i < 11; ++i) {
-        printf("%s, ", tools[i]);
-    }
-    printf("\n");
-
-    printf("Projects: ");
-    for (int i = 0; i < 4; ++i) {
-        printf("%s, ", projects[i]);
-    }
-    printf("\n");
-
-    printf("Academic Background: %s\n", education);
-
-    return 0;
-}
+print("Name: Bhargav")
+print("Interests:", ', '.join(interests))
+print("Programming Languages:", ', '.join(languages))
+print("Tools and Platforms:", ', '.join(tools))
+print("Projects:", ', '.join(projects))
+print("Academic Background:", education)
 
 ```
    
