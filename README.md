@@ -1,4 +1,10 @@
-#  Hello world.I am Bhargav,
+<h1>
+
+```c++
+Serial.println("Hello world.I am Bhargav,");
+```
+
+</h1>
 
 <p align = "center"/>
 <img src='https://w0.peakpx.com/wallpaper/653/714/HD-wallpaper-rick-morty-x-breaking-bad.jpg' />
@@ -42,41 +48,37 @@
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
 </div>
 
+  
 # About me,
-```python
-interests = [
-    "Electronics", "Mechanics", "Computer Science",
-    "Robotics", "Agriculture", "Aquarium Hobbyist"
-]
+<h2>
 
-languages = [
-    "Embedded C (Arduino IDE)", "MicroPython", "Bash",
-    "Python", "C", "Java", "HTML", "CSS", "JavaScript",
-    "SQL (MySQL)", "PHP"
-]
+```java
+char* interests[] = {
+  "Electronics", "Mechanics", "Computer Science",
+  "Robotics", "Agriculture", "Aquarium Hobbyist"
+};
 
-tools = [
-    "Arduino and Arduino IDE", "ESP32", "Raspberry Pi",
-    "STM32", "EasyEDA for PCB Design", "FreeCAD for basic CAD design",
-    "Processing IDE", "InfluxDB", "Grafana", "Blender", "Canva"
-]
+char* languages[] = {
+  "Embedded C (Arduino IDE)", "MicroPython", "Bash",
+  "Python", "C", "Java", "HTML", "CSS", "JavaScript",
+  "SQL (MySQL)", "PHP"
+};
+
+var tools = [
+  "Arduino and Arduino IDE", "ESP32", "Raspberry Pi",
+  "STM32", "EasyEDA for PCB Design", "FreeCAD for basic CAD design",
+  "Processing IDE", "InfluxDB", "Grafana", "Blender", "Canva"
+];
 
 projects = [
-    "Tinkering projects using ESP32", "Arduino",
-    "Raspberry Pi", "STM32"
-]
+  "Tinkering projects using ESP32", "Arduino",
+  "Raspberry Pi", "STM32"
+];
 
-education = "B.Tech in Computer Science and Internet of Things at Shiv Nadar University,Chennai"
-
-print("Name: Bhargav")
-print("Interests:", ', '.join(interests))
-print("Programming Languages:", ', '.join(languages))
-print("Tools and Platforms:", ', '.join(tools))
-print("Projects:", ', '.join(projects))
-print("Academic Background:", education)
-
+String education = "B.Tech in Computer Science and Internet of Things";
 ```
-   
+
+ </h2>
 
 
 
