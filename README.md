@@ -3,8 +3,10 @@
 ```c++
 Serial.println("Hello world.I am Bhargav,");
 ```
-
 </h1>
+
+
+
 
 <p align = "center"/>
 <img src='https://w0.peakpx.com/wallpaper/653/714/HD-wallpaper-rick-morty-x-breaking-bad.jpg' />
@@ -94,8 +96,7 @@ String education = "B.Tech in Computer Science and Internet of Things";
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </p>
-
-
+ 
 
 
 
