@@ -61,7 +61,7 @@ Serial.println("Hello world.I am Bhargav,");
 ```java
 char* interests[] = {
   "Electronics", "Mechanics", "Computer Science",
-  "Robotics", "Agriculture", "Aquarium Hobbyist"
+  "Robotics", "Agriculture", "Aquariums","Nature(why not!)"
 };
 
 char* languages[] = {
