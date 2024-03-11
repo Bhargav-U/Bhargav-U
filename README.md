@@ -1,4 +1,4 @@
-![image](https://github.com/Bhargav-U/Bhargav-U/assets/124860212/9d40b581-0d34-4dc2-ae15-ca65f85105f7)<p align = "center"/>
+<p align = "center"/>
   <a href='https://bhargav-u.github.io/Unnam_Bhargav.github.io/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Know more about me-100000?style=for-the-badge&logo=GitHub&logoColor=000000&labelColor=FF0000&color=FF0000'/></a>
 </p>
 
@@ -18,6 +18,8 @@ Serial.println("Hello world.I am Bhargav,");
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" height="50" alt="embedded c logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -52,8 +54,21 @@ Serial.println("Hello world.I am Bhargav,");
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" height="40" alt="influx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg" height="60" alt="ros logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="ros logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="ros logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg"  height="40" alt="ros logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg"height="40" alt="ros logo"/>
+  <img width="12" />
 
-# Some variables about me,
+  # Some variables about me,
 <h2>
 
 ```java
