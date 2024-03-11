@@ -1,4 +1,4 @@
-<p align = "center"/>
+![image](https://github.com/Bhargav-U/Bhargav-U/assets/124860212/9d40b581-0d34-4dc2-ae15-ca65f85105f7)<p align = "center"/>
   <a href='https://bhargav-u.github.io/Unnam_Bhargav.github.io/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Know more about me-100000?style=for-the-badge&logo=GitHub&logoColor=000000&labelColor=FF0000&color=FF0000'/></a>
 </p>
 
@@ -52,33 +52,57 @@ Serial.println("Hello world.I am Bhargav,");
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
-</div>
 
-  
 # Some variables about me,
 <h2>
 
 ```java
 char* interests[] = {
-  "Electronics", "Mechanics", "Computer Science",
-  "Robotics", "Agriculture", "Aquariums","Nature(why not!)"
+  "Electronics",
+  "Mechanics",
+  "Computer Science",
+  "Internet of things",
+  "Robotics",
+  "Agriculture",
+  "Nature(why not!)"
 };
 
 char* languages[] = {
-  "Embedded C (Arduino IDE)", "MicroPython", "Bash",
-  "Python", "C", "Java", "HTML", "CSS", "JavaScript",
-  "SQL (MySQL)", "PHP"
+  "Embedded C",
+  "MicroPython",
+  "Bash",
+  "Python",
+  "C",
+  "Java",
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "SQL (MySQL)",
+  "PHP"
 };
 
 var tools = [
-  "Arduino and Arduino IDE", "ESP32", "Raspberry Pi",
-  "STM32", "EasyEDA for PCB Design", "FreeCAD for basic CAD design",
-  "Processing IDE", "InfluxDB", "Grafana", "Blender", "Canva"
+  "Arduino IDE",
+  "Thonny",
+  "EasyEDA",
+  "solidworks",
+  "Processing IDE",
+  "InfluxDB",
+  "Grafana",
+  "Blender",
+  "Canva",
+  "Mysql-antares",
+  "Postman"
 ];
 
 projects = [
-  "Tinkering projects using ESP32", "Arduino",
-  "Raspberry Pi", "STM32"
+  "Simple home automation with esp32(implementred from scratch -> inspired from Schneider Electric )",
+  "LORA and 4g based cattle management system(implented form scrath" - > inspired from jio jio gausamridhi,digitanimal,mOOvement),
+  "Arduino based autonomous robot(basics)",
+  "Home automation using mqtt(adafruit io/aws mqtt)",
+  "Data logger for a agriculture startup company(serigreen-sericulture)",
+  "smart plant watering ad maintence system(simple)",
+  "Smart aquarium maitence system(hobby)"
 ];
 
 String education = "B.Tech in Computer Science and Internet of Things";
